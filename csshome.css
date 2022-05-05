@@ -1,0 +1,16 @@
+﻿body {
+    background-image: url('Img/5ab66825-0404-4a6e-8ad4-1f6ffde042a7.jpeg');
+    background-repeat:round;
+
+}
+.bod{
+    text-align:center;
+    padding:30px;
+    height:auto
+}
+.bod-link{
+    color:greenyellow;
+    border-block:solid;
+    background-blend-mode:darken;
+    border-block-color:greenyellow;
+}
